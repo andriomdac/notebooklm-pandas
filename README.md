@@ -1,7 +1,44 @@
-# 🐼Pandas Notebook
-## Um notebook criado com NotebookLM da Google, com o objetivo de acelerar meu aprendizado da biblioteca Pandas e Análise de Dados
+# 🐼 Pandas Notebook
 
-### Acesse o notebook aqui: https://notebooklm.google.com/notebook/4b1a96cb-bb95-4640-97a6-2c54a26f9db4
+Notebook criado com o **NotebookLM (Google)** com o objetivo de acelerar o aprendizado da biblioteca **Pandas** e conceitos fundamentais de **Análise de Dados em Python**.
 
-## 7 fontes
-O texto apresenta um guia abrangente sobre a biblioteca pandas, destacando sua importância vital para a manipulação e análise de dados estruturados em Python. Ele detalha desde os passos iniciais de instalação e configuração até o uso prático de estruturas como DataFrames e Series para organizar informações tabulares. A fonte explica como realizar operações matemáticas, agrupamentos de dados e a integração com outras ferramentas essenciais, como NumPy e Matplotlib, para visualização gráfica. Além de ensinar a leitura e escrita de arquivos em formatos como CSV e Excel, o material oferece estratégias para otimizar o processamento de grandes volumes de dados. Por fim, são sugeridas boas práticas de depuração e testes para garantir a integridade das análises realizadas.
+---
+
+## 📘 Acesso ao Notebook
+
+🔗 **Link direto:**  
+https://notebooklm.google.com/notebook/4b1a96cb-bb95-4640-97a6-2c54a26f9db4
+
+---
+
+## 📚 Fontes e Conteúdo (7 fontes)
+
+Este material apresenta um guia abrangente sobre a biblioteca **pandas**, destacando sua importância na manipulação e análise de dados estruturados em Python.
+
+### O que é abordado:
+
+- Instalação e configuração do pandas  
+- Estruturas principais:
+  - `DataFrame`
+  - `Series`
+- Organização e manipulação de dados tabulares  
+- Operações matemáticas e estatísticas  
+- Agrupamentos e agregações de dados  
+- Leitura e escrita de arquivos:
+  - CSV
+  - Excel
+- Integração com outras bibliotecas:
+  - **NumPy**
+  - **Matplotlib** (visualização de dados)
+- Estratégias para lidar com grandes volumes de dados  
+- Boas práticas:
+  - Depuração
+  - Testes
+  - Garantia da integridade das análises  
+
+---
+
+## 🎯 Objetivo
+
+Servir como material de apoio prático e rápido para consolidar conhecimentos em **Pandas** e **Análise de Dados**, com foco em produtividade e clareza.
+
